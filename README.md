@@ -10,3 +10,7 @@ Every day, millions of players worldwide enter the battle as one of over a hundr
 ## Me
 
 My name is Daniel.
+
+## location
+
+I live in Sydney.
